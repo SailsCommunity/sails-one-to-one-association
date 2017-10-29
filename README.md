@@ -1,0 +1,1 @@
+# sails-one-to-one-association
